@@ -1,5 +1,6 @@
 # RPSGame
 Git Repo for the RPSGame project
+---
 Description:
 - RPS is a rock-paper-scissors game that subtitues rock, paper, and scissors with swordman, bowman, and spearman.
 - Swordman beats bowman, bowman beats spearman, spearman beats bowman.
